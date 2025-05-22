@@ -1,0 +1,3 @@
+git config --global user.name "Denisse-cmd"
+git config --global user.email "denisseaila.h15@gmail.com"
+git config --global --list
